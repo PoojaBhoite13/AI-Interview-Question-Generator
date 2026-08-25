@@ -1,0 +1,23 @@
+# Java / Maven
+target/
+**/target/
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# React
+interviewquestionappfront/node_modules/
+interviewquestionappfront/build/
+
+# Environment files
+.env
+*.env
